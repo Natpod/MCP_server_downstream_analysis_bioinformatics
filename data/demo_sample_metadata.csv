@@ -1,0 +1,13 @@
+sample_id,condition,batch,sex
+ctrl_1,control,A,F
+ctrl_2,control,B,M
+ctrl_3,control,A,M
+ctrl_4,control,B,M
+ctrl_5,control,A,M
+ctrl_6,control,B,F
+tumor_1,tumor,A,M
+tumor_2,tumor,B,F
+tumor_3,tumor,A,F
+tumor_4,tumor,B,M
+tumor_5,tumor,A,M
+tumor_6,tumor,B,M
